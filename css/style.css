@@ -519,6 +519,7 @@ body.section-show .transition-mask:before{
 .front-person-titles > .t1{
 	left:5px;
 	bottom:0;
+	padding: 10px;
 	-webkit-transform:rotate(-90deg) translateY(-100%);
 	-moz-transform:rotate(-90deg) translateY(-100%);
 	-ms-transform:rotate(-90deg) translateY(-100%);
@@ -533,6 +534,7 @@ body.section-show .transition-mask:before{
 .front-person-titles > .t2{
 	top:5px;
 	left:0;
+	padding: 10px;
 	-webkit-transform:translateY(-100%);
 	-moz-transform:translateY(-100%);
 	-ms-transform:translateY(-100%);
@@ -542,6 +544,7 @@ body.section-show .transition-mask:before{
 .front-person-titles > .t3{
 	left:0;
 	bottom:5px;
+	padding: 10px;
 	-webkit-transform:translateY(100%) rotate(180deg);
 	-moz-transform:translateY(100%) rotate(180deg);
 	-ms-transform:translateY(100%) rotate(180deg);
