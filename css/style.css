@@ -245,7 +245,6 @@ body.section-show .section.active{
 	transition:all .3s ease-in-out;
 	display:block;
 	text-align:center;
-	color:#BBB;
 	background:#F0F0F0;
 	font-size:0;
 }
